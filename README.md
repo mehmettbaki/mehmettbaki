@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on .net web api
+- 🔭 I’m currently working on .net web api and sping boot api dev
 - 🌱 I’m currently learning backend technologies .net and nodejs
 - 👯 I’m looking to collaborate on backend development
 - 🤔 I’m looking for help with backend acrhitecture
